@@ -99,7 +99,7 @@
 <a href="mailto:ramirezpineda.rickyroy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
-</div>
+</p>
 
 <!--profile visit count-->
 <div align="center">
